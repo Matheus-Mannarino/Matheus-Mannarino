@@ -2,7 +2,7 @@
 
 
 
-- 📖 Cursando Ciência de Dados e Inteligência Artificial no IBMEC (3º período).
+- 📖 Cursando Ciência de Dados e Inteligência Artificial no IBMEC (4º período).
 
 ##
 
