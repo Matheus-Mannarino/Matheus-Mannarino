@@ -1,8 +1,17 @@
-## Olá! Me chamo Matheus Condino Mannarino 👋
+## 👋 Olá, eu sou Matheus Mannarino!
 
 
 
-- 📖 Cursando Ciência de Dados e Inteligência Artificial no IBMEC (4º período).
+- 🎓 Graduando em Ciência de Dados e Inteligência Artificial | Ibmec
+- 📍 Rio de Janeiro, Brasil
+## 🎮 Sobre mim
+ Sou estudante de Ciência de Dados e Inteligência Artificial no Ibmec, com interesse em transformar dados em informações relevantes e desenvolver soluções tecnológicas para problemas reais.
+
+  Ao longo da graduação, venho construindo projetos práticos que envolvem análise e visualização de dados, modelagem de bancos de dados, desenvolvimento de APIs e aplicações web.
+
+  Tenho experiência acadêmica com Python, SQL, Power BI e ferramentas de desenvolvimento, sempre buscando aplicar os conhecimentos adquiridos em sala de aula em projetos completos.
+
+  Atualmente, estou em busca da minha primeira oportunidade de estágio na área de tecnologia e dados, onde possa contribuir, aprender com profissionais experientes e continuar evoluindo tecnicamente.
 
 ##
 
